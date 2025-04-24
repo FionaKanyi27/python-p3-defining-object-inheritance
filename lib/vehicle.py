@@ -4,7 +4,7 @@ class Vehicle:
         self.wheel_number = wheel_number
 
     def go(self):
-        return "vrrrrrrrooom!
+        return "vrrrrrrrooom!"
     
     def fill_up_tank(self):
         return "filling up!"
